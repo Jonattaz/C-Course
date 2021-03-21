@@ -1,6 +1,5 @@
 # C-Sharp_Course
- In this Fundação Bradesco course, the subjects taught cover from basic to advanced in the C # programming language.
-
+  Fundação Bradesco's course covers subjects ranging from basic to advanced in the C # programming language.
 
 ## Main projects
 
