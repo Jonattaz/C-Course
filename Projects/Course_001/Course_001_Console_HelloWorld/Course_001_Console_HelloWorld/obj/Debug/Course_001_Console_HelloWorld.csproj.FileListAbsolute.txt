@@ -1,0 +1,7 @@
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_001_Console_HelloWorld\Course_001_Console_HelloWorld\bin\Debug\Course_001_Console_HelloWorld.exe.config
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_001_Console_HelloWorld\Course_001_Console_HelloWorld\bin\Debug\Course_001_Console_HelloWorld.exe
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_001_Console_HelloWorld\Course_001_Console_HelloWorld\bin\Debug\Course_001_Console_HelloWorld.pdb
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_001_Console_HelloWorld\Course_001_Console_HelloWorld\obj\Debug\Course_001_Console_HelloWorld.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_001_Console_HelloWorld\Course_001_Console_HelloWorld\obj\Debug\Course_001_Console_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_001_Console_HelloWorld\Course_001_Console_HelloWorld\obj\Debug\Course_001_Console_HelloWorld.exe
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_001_Console_HelloWorld\Course_001_Console_HelloWorld\obj\Debug\Course_001_Console_HelloWorld.pdb
