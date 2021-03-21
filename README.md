@@ -2,6 +2,6 @@
  C#(C-Sharp) course from Fundação Bradesco
 
 
-##Main projects
+## Main projects
 
-###Basic Calculator
+### Basic Calculator
