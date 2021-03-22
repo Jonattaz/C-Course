@@ -1,0 +1,10 @@
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Average_Calc\Average_Calc\bin\Debug\Average_Calc.exe.config
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Average_Calc\Average_Calc\bin\Debug\Average_Calc.exe
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Average_Calc\Average_Calc\bin\Debug\Average_Calc.pdb
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Average_Calc\Average_Calc\obj\Debug\Average_Calc.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Average_Calc\Average_Calc\obj\Debug\Average_Calc.Form1.resources
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Average_Calc\Average_Calc\obj\Debug\Average_Calc.Properties.Resources.resources
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Average_Calc\Average_Calc\obj\Debug\Average_Calc.csproj.GenerateResource.cache
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Average_Calc\Average_Calc\obj\Debug\Average_Calc.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Average_Calc\Average_Calc\obj\Debug\Average_Calc.exe
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Average_Calc\Average_Calc\obj\Debug\Average_Calc.pdb
