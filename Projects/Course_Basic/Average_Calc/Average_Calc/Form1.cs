@@ -52,16 +52,14 @@ namespace Average_Calc
             textBox4.Text = media.ToString();
 
             if (media >= 7) 
-            {
                 MessageBox.Show("Aprovado", "Resultado", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }else if (media < 7 && media >= 4)
-            {
+            
+            else if (media < 7 && media >= 4)
                 MessageBox.Show("Recuperação", "Resultado", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
+           
             else
-            {
                 MessageBox.Show("Reprovado", "Resultado", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
+            
 
         }
 
