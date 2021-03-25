@@ -1,0 +1,12 @@
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\While\While\bin\Debug\While.exe.config
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\While\While\bin\Debug\While.exe
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\While\While\bin\Debug\While.pdb
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\While\While\obj\Debug\While.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\While\While\obj\Debug\While.While.resources
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\While\While\obj\Debug\While.Properties.Resources.resources
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\While\While\obj\Debug\While.csproj.GenerateResource.cache
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\While\While\obj\Debug\While.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\While\While\obj\Debug\While.exe
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\While\While\obj\Debug\While.pdb
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\While\While\obj\Debug\While.Form2.resources
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\While\While\obj\Debug\While.Form3.resources
