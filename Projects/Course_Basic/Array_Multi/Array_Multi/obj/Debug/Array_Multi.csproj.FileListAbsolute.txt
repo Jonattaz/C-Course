@@ -1,0 +1,10 @@
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Array_Multi\Array_Multi\bin\Debug\Array_Multi.exe.config
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Array_Multi\Array_Multi\bin\Debug\Array_Multi.exe
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Array_Multi\Array_Multi\bin\Debug\Array_Multi.pdb
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Array_Multi\Array_Multi\obj\Debug\Array_Multi.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Array_Multi\Array_Multi\obj\Debug\Array_Multi.Form1.resources
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Array_Multi\Array_Multi\obj\Debug\Array_Multi.Properties.Resources.resources
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Array_Multi\Array_Multi\obj\Debug\Array_Multi.csproj.GenerateResource.cache
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Array_Multi\Array_Multi\obj\Debug\Array_Multi.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Array_Multi\Array_Multi\obj\Debug\Array_Multi.exe
+C:\Users\jonat\OneDrive\Documentos\C# Course\Projects\Course_Basic\Array_Multi\Array_Multi\obj\Debug\Array_Multi.pdb
